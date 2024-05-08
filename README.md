@@ -16,7 +16,7 @@
 
 - Back-end : java17, Spring Boot 3.2.3, Spring web MVC, Spring data JPA, jwt, MySQL, Thymleaf 3.1.0
 
-- Front-end, HTML 5, CSS3, JavaScript, Jquery, React, Redux, Redux-toolkit
+- Front-end : HTML 5, CSS3, JavaScript, Jquery, React, Redux, Redux-toolkit
 
   <br>
 
@@ -47,16 +47,18 @@
 
 ## 6. 기능 영상
 
-| 기능                    | 영상                                                                                           |
-| ----------------------- | ---------------------------------------------------------------------------------------------- |
-| 회원가입,로그인         | ![회원가입,로그인](https://raw.githubusercontent.com/camp-recommerce/camp/main/image/join.gif) |
-| 회원 정보 변경          |                                                                                                |
-| 캠핑장 이미지 검색      |                                                                                                |
-| 캠핑장 검색             |                                                                                                |
-| 상품 등록,수정, 삭제    |                                                                                                |
-| 장바구니 및 결제        |                                                                                                |
-| 공지사항 생성,수정,삭제 |                                                                                                |
-| 챗봇                    |                                                                                                |
+| 기능                    | 영상                                                                                                 |
+| ----------------------- | ---------------------------------------------------------------------------------------------------- |
+| 회원가입,로그인         | ![회원가입,로그인](https://raw.githubusercontent.com/camp-recommerce/camp/main/image/join.gif)       |
+| 카카오 로그인           | ![카카오 로그인](https://raw.githubusercontent.com/camp-recommerce/camp/main/image/kakao.gif)        |
+| 회원 정보 변경          | ![회원정보 수정](https://raw.githubusercontent.com/camp-recommerce/camp/main/image/myPageModify.gif) |
+| 캠핑장 이미지 검색      | ![이미지 검색](https://raw.githubusercontent.com/camp-recommerce/camp/main/image/imageSearch.gif)    |
+| 캠핑장 검색             | ![캠핑장 검색](https://raw.githubusercontent.com/camp-recommerce/camp/main/image/campSearch.gif)     |
+| 상품 등록,수정, 삭제    | ![상품](https://raw.githubusercontent.com/camp-recommerce/camp/main/image/product.gif)               |
+| 리뷰, QNA 등록          | ![리뷰 QNA](https://raw.githubusercontent.com/camp-recommerce/camp/main/image/reviewQna.gif)         |
+| 장바구니 및 결제        |                                                                                                      |
+| 공지사항 생성,수정,삭제 | ![공지사항](https://raw.githubusercontent.com/camp-recommerce/camp/main/image/notice.gif)            |
+| 챗봇                    | ![챗봇](https://raw.githubusercontent.com/camp-recommerce/camp/main/image/chatBot.gif)               |
 
 ## 7. 개발 팀 소개
 
